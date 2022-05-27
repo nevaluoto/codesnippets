@@ -1,2 +1,2 @@
-# codesnippets
-Just a random collection of little code snippets that I've written here and there to do something
+# Random collection of little code snippets
+Some of these even do something!
